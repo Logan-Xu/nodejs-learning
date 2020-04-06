@@ -19,7 +19,7 @@ weatherForm.addEventListener("submit", (e) => {
 
   const location = search.value;
   const url =
-    "http://api.openweathermap.org/data/2.5/weather?q=" +
+    "https://api.openweathermap.org/data/2.5/weather?q=" +
     location +
     "&appid=66434ea60591f6b5c68a8b40db4a5009";
   fetch(url).then((response) => {
