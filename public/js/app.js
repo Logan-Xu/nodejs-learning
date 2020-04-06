@@ -1,5 +1,3 @@
-console.log("Client side Javascript file has been loaded...");
-
 // fetch(
 //   "http://api.openweathermap.org/data/2.5/weather?q=hobart&appid=66434ea60591f6b5c68a8b40db4a5009"
 // ).then((response) => {
